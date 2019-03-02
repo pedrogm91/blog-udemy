@@ -1,0 +1,1 @@
+{{-- vista creada para los posts sin fotos o iframe --}}
